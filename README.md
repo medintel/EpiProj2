@@ -1,4 +1,4 @@
-# progSelect.html
+# index.html
 
 ###  Satirical webpage to assist users in selecting a programming language to learn
 # 5/7/2020, updated 5/17/20
@@ -13,7 +13,7 @@ Program Setup: open projSelect.html in browser that is capable of running JavaSc
 
 Technologies used: HTML, CSS, JavaScript, jQuery.
 
-Link to GitHub Page: https://github.com/medintel/ProgLangSuggProj
-
+Link to GitHub Page: https://github.com/medintel/EpiProj2
+Old files: 
 Licensing: This software is licensed under the MIT license. 
 Copyright (c) 2020 Jamie Mieras 
