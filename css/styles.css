@@ -1,0 +1,15 @@
+.btn{
+  border: 3px red solid;
+}
+
+label {
+  padding: 5px;
+}
+
+#results{
+  display: none;
+}
+
+#ruby, #python, #js, #go, #cs{
+  display: none;
+}
